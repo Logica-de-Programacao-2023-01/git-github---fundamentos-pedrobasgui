@@ -1,2 +1,3 @@
 baitolasso
 edit baitolasso pela web
+wasd
